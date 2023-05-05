@@ -53,7 +53,24 @@ class _MyAppState extends State<MyApp> {
                     '+93 792 123 456',
                     style: TextStyle(
                       color: Colors.teal.shade900,
-                      fontFamily: 'Source Sans Pro',
+                      fontFamily: 'SansPro',
+                      fontSize: 20.0,
+                    ),
+                  ),
+                ),
+              ),
+              Card(
+                margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
+                child: ListTile(
+                  leading: const Icon(
+                    Icons.email,
+                    color: Colors.teal,
+                  ),
+                  title: Text(
+                    'example@gamil.com',
+                    style: TextStyle(
+                      color: Colors.teal.shade900,
+                      fontFamily: 'SansPro',
                       fontSize: 20.0,
                     ),
                   ),
