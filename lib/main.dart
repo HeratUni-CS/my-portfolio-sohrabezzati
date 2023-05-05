@@ -67,7 +67,7 @@ class _MyAppState extends State<MyApp> {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    'example@gamil.com',
+                    'example@gmail.com',
                     style: TextStyle(
                       color: Colors.teal.shade900,
                       fontFamily: 'SansPro',
