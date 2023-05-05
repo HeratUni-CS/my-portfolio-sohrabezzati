@@ -32,32 +32,33 @@ flutter:
   fonts:
     - family: Pacifico
       fonts:
-        - asset: assets/fonts/Pacifico-Regular.ttf
-        - asset: assets/fonts/Pacifico-Regular.ttf
+        - asset: fonts/Pacifico-Regular.ttf
+        - asset: fonts/Pacifico-Regular.ttf
           weight: 700
-        - asset: assets/fonts/Pacifico-Regular.ttf
+        - asset: fonts/Pacifico-Regular.ttf
           weight: 800
-        - asset: assets/fonts/Pacifico-Regular.ttf
+        - asset: fonts/Pacifico-Regular.ttf
           weight: 300
-        - asset: assets/fonts/Pacifico-Regular.ttf
+        - asset: fonts/Pacifico-Regular.ttf
           weight: 500
-        - asset: assets/fonts/Pacifico-Regular.ttf
+        - asset: fonts/Pacifico-Regular.ttf
           weight: 600
-        - asset: assets/fonts/Pacifico-Regular.ttf
+        - asset: fonts/Pacifico-Regular.ttf
           weight: 100
+
     - family: SansPro
       fonts:
-        - asset: assets/fonts/SansPro-Regular.ttf
-        - asset: assets/fonts/SansPro-Regular.ttf
+        - asset: fonts/SansPro-Regular.ttf
+        - asset: fonts/SansPro-Regular.ttf
           weight: 700
-        - asset: assets/fonts/SansPro-Regular.ttf
+        - asset: fonts/SansPro-Regular.ttf
           weight: 800
-        - asset: assets/fonts/SansPro-Regular.ttf
+        - asset: fonts/SansPro-Regular.ttf
           weight: 300
-        - asset: assets/fonts/SansPro-Regular.ttf
+        - asset: fonts/SansPro-Regular.ttf
           weight: 500
-        - asset: assets/fonts/SansPro-Regular.ttf
+        - asset: fonts/SansPro-Regular.ttf
           weight: 600
-        - asset: assets/fonts/SansPro-Regular.ttf
+        - asset: fonts/SansPro-Regular.ttf
           weight: 100
 
